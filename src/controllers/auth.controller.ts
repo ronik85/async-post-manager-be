@@ -15,8 +15,6 @@ const generateToken = (id: string) => {
     });
 };
 
-
-
 /**
  * Registers a new user by saving their details to the db.
  * 
